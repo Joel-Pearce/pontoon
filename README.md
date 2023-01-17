@@ -1,2 +1,2 @@
 # pontoon
-The backend code for pontoon that I made for an assignment.
+The programmed logic of the game pontoon written in Java.
